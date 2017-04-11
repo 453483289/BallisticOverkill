@@ -2,6 +2,13 @@ Ballistic Overkill basic cheat. This is kind of old, it might not be fully worki
 
 More info over here: https://www.unknowncheats.me/forum/other-fps-games/205806-ballistic-overkill.html
 
+About the projects:
+
+/BallisticOverkill.csproj - The actual cheat.
+/LoaderDll.vcxproj        - The loader dll. This must be injected on the process.
+/LoaderLoader.vcxproj     - A simple injector for the loader dll.
+
+
 //--
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
