@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallisticOverkill", "BallisticOverkill\BallisticOverkill.csproj", "{9DCCC50D-B257-4C30-87B4-859D0E07C350}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoaderDll", "LoaderDll\LoaderDll.vcxproj", "{DE49EB61-D2B0-4166-9633-9D7BA056D4E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoaderLoader", "LoaderLoader\LoaderLoader.vcxproj", "{49881F1E-12BA-4EB1-97C9-FE57F0772782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DCCC50D-B257-4C30-87B4-859D0E07C350}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9DCCC50D-B257-4C30-87B4-859D0E07C350}.Debug|x86.Build.0 = Debug|Any CPU
+		{9DCCC50D-B257-4C30-87B4-859D0E07C350}.Release|x86.ActiveCfg = Release|Any CPU
+		{9DCCC50D-B257-4C30-87B4-859D0E07C350}.Release|x86.Build.0 = Release|Any CPU
+		{DE49EB61-D2B0-4166-9633-9D7BA056D4E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE49EB61-D2B0-4166-9633-9D7BA056D4E0}.Debug|x86.Build.0 = Debug|Win32
+		{DE49EB61-D2B0-4166-9633-9D7BA056D4E0}.Release|x86.ActiveCfg = Release|Win32
+		{DE49EB61-D2B0-4166-9633-9D7BA056D4E0}.Release|x86.Build.0 = Release|Win32
+		{49881F1E-12BA-4EB1-97C9-FE57F0772782}.Debug|x86.ActiveCfg = Debug|Win32
+		{49881F1E-12BA-4EB1-97C9-FE57F0772782}.Debug|x86.Build.0 = Debug|Win32
+		{49881F1E-12BA-4EB1-97C9-FE57F0772782}.Release|x86.ActiveCfg = Release|Win32
+		{49881F1E-12BA-4EB1-97C9-FE57F0772782}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
